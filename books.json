@@ -1,0 +1,63 @@
+
+[
+  {
+    "book_id": 1,
+    "name": "Atomic Habits",
+    "genre": "Self-Help",
+    "price": 1200
+  },
+  {
+    "book_id": 2,
+    "name": "The Alchemist",
+    "genre": "Fiction",
+    "price": 950
+  },
+  {
+    "book_id": 3,
+    "name": "Rich Dad Poor Dad",
+    "genre": "Finance",
+    "price": 1100
+  },
+  {
+    "book_id": 4,
+    "name": "Ikigai",
+    "genre": "Self-Help",
+    "price": 850
+  },
+  {
+    "book_id": 5,
+    "name": "Harry Potter",
+    "genre": "Fantasy",
+    "price": 1500
+  },
+  {
+    "book_id": 6,
+    "name": "The Psychology of Money",
+    "genre": "Finance",
+    "price": 1300
+  },
+  {
+    "book_id": 7,
+    "name": "Pride and Prejudice",
+    "genre": "Romance",
+    "price": 1000
+  },
+  {
+    "book_id": 8,
+    "name": "The Silent Patient",
+    "genre": "Thriller",
+    "price": 1400
+  },
+  {
+    "book_id": 9,
+    "name": "Deep Work",
+    "genre": "Productivity",
+    "price": 1250
+  },
+  {
+    "book_id": 10,
+    "name": "The Hobbit",
+    "genre": "Fantasy",
+    "price": 1150
+  }
+]
